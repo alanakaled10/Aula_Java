@@ -1,5 +1,5 @@
 public class Circulo extends Forma2D{
-
+    
     public Circulo() {
         super();
     }
@@ -19,7 +19,6 @@ public class Circulo extends Forma2D{
                 + ", Área = " 
                 + area() 
                 + " ]";
-    }
+    } 
 
-    
 }
